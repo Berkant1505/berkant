@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihtepe&show_icons=true&theme=onedark)<br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/serkansahan/)
-[![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/ser-2007)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/berkantgoren/)
+[![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/Berkant1505)
 <!--<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<a href="https://unsplash.com/@ser-2007">unsplash</a>
-<a href="https://ser-2007.github.io/">ser-2007.io</a>-->
+<a href="https://unsplash.com/@Berkant1505">unsplash</a>
+<a href="https://Berkant1505.github.io/">berkant.io</a>-->
 
 ### Hi there 👋
 
@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 - ✨ Believes in the importance of learning new things every day. 
 - A lifelong learner. 
 - ✨ Motivated to learn, grow and excel in IT industry.
-- 📫 How to reach me: sersah95@gmail.com
+- 📫 How to reach me: berkant.gor@gmail.com
 
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=ser-2007&column=9&theme=gruvbox&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Berkant1505&column=9&theme=gruvbox&no-frame=true"/>
 ## ⚙ Tools
 
 
@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ser-2007&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ser-2007&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ser-2007&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Berkant1505&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Berkant1505&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkant1505&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
